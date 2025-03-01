@@ -1,4 +1,4 @@
 Assignment/
-src/
-tests/
-requirements.txt
+*.env
+src/Knowledge_graph/Data.txt
+logs

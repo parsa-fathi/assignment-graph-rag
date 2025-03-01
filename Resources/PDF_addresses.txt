@@ -1,0 +1,10 @@
+tests\resources\PDF\1.pdf
+tests\resources\PDF\2.pdf
+tests\resources\PDF\3.pdf
+tests\resources\PDF\4.pdf
+tests\resources\PDF\5.pdf
+tests\resources\PDF\6.pdf
+tests\resources\PDF\7.pdf
+tests\resources\PDF\8.pdf
+tests\resources\PDF\9.pdf
+tests\resources\PDF\10.pdf
