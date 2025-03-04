@@ -1,8 +1,8 @@
 # Ignore the entire Assignment directory
 Assignment/
 
-# Resources Environment variables
-Resources/*.env
+# Environment variables
+*.env
 
 # Data files
 src/Knowledge_graph/Data.txt
@@ -10,6 +10,10 @@ src/Knowledge_graph/Data.txt
 # Log files
 logs/
 *.log
+
+# Docker files
+Dockerfile
+.dockerignore
 
 # Python cache files
 __pycache__/
@@ -64,3 +68,9 @@ Tests/Resources/Output.txt
 
 # Ignore ontology files
 *ontology.json
+
+# Ignore git
+.git
+
+# Ignore gitignore
+.gitignore
